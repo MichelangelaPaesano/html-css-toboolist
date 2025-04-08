@@ -1,0 +1,108 @@
+/*RESET*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/*LAYOUT*/
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 24px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 20px;
+}
+
+
+
+body {
+    background-color: rgb(170, 170, 150);
+}
+
+/*HEADER*/
+.header-color {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    width: 300px;
+}
+
+/*MAIN - button section*/
+
+.button-color {
+    background-color: rgb(80, 150, 197);
+}
+
+.button-style {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.button-section {
+    border-bottom: 2px solid rgb(232, 227, 227);
+    padding: 10px;
+}
+
+/*MAIN - list section*/
+
+.main-target {
+    font-size: 25px;
+    font-weight: bold;
+    list-style: none;
+    margin-top: 30px;
+
+}
+
+.task-style {
+    font-size: 22px;
+    font-weight: lighter;
+    list-style: none;
+    padding-top: 10px;
+}
+
+.check {
+    color: rgb(45, 168, 45);
+}
+
+.failed {
+    color: rgb(169, 61, 61)
+}
+
+.category {
+    font-size: 17px;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.editorial-blu {
+    background-color: rgb(62, 62, 237);
+   
+}
+
+.q1-violet {
+    background-color: rgb(126, 12, 101);
+    
+}
+
+.rec-green {
+    background-color: rgb(0, 153, 0);
+    
+}
+
+.mob-orange {
+    background-color: rgb(230, 107, 7);
+
+}
+
+.web-pink {
+    background-color: rgb(240, 7, 224); 
+}
+
+.sales-fichi {
+    background-color: rgb(57, 155, 108);
+}
